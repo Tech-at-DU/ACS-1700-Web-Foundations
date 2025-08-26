@@ -19,33 +19,33 @@ By the end of the course, you will be able to ...
 1. Use JavaScript to create dynamic content and handle user interactions in your web applications
 
 ## Schedule
-**Course Dates:** Tuesday, August 27 – Thursday, October 10, 2024
+**Course Dates:** Tuesday, August 26 – Thursday, October 9, 2025
 
 **Class Times:** Tuesday and Thursday 1:00 PM to 3:45 PM
 
 | Class |   Date   |   Topics  |  Assignment  |  Assignment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
 | -  | **Week 1** HTML | - | - | - |
-|  1 | Tue, Aug 27 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
-|  2 | Thu, Aug 29 | HTML [HTML Attributes] | Continue portfolio | - |
+|  1 | Tue, Aug 26 | HTML [Semantic HTML] | [Portfolio Part 1: Semantic Markup] | - |
+|  2 | Thu, Aug 28 | HTML [HTML Attributes] | Continue portfolio | - |
 | -  | **Week 2** CSS | - | - | - |
-|  3 | Tue, Sep  3 | [CSS Intro] | [Validate your Portfolio] | Interview Practice [Lab 1]  | 
-|  4 | Thu, Sep  5 | [CSS Box Model] | [Style Your Portfolio] | - |
+|  3 | Tue, Sep  2 | [CSS Intro] | [Validate your Portfolio] | Interview Practice [Lab 1]  | 
+|  4 | Thu, Sep  4 | [CSS Box Model] | [Style Your Portfolio] | - |
 | -  | **Week 3** | - | - | - |
-|  5 | Tue, Sep 10 | [Learn Flex], [Single Page Example]| - | - |
-|  6 | Thu, Sep 12 | CSS [Grid] | - | Interview Practice [Lab 2] |
+|  5 | Tue, Sep 9 | [Learn Flex], [Single Page Example]| - | - |
+|  6 | Thu, Sep 11 | CSS [Grid] | - | Interview Practice [Lab 2] |
 | -  | **Week 4** Javascript | - | - | - |
-|  7 | Tue, Sep 17 | [Background Images] | [Grid and Flex Challenge]  | [Style Your Portfolio] |
-|  8 | Thu, Sep 19 | [JavaScript Syntax] | [Flashcards Tutorial] | - |
+|  7 | Tue, Sep 16 | [Background Images] | [Grid and Flex Challenge]  | [Style Your Portfolio] |
+|  8 | Thu, Sep 18 | [JavaScript Syntax] | [Flashcards Tutorial] | - |
 | -  | **Week 5** | - | - | Interview Practice [Lab 3] |
-|  9 | Tue, Sep 24 | [Functions] | - | [Flashcards Tutorial] |
-| 10 | Thu, Sep 26 | [Event Listeners] | [Custom Calculator] | - |
+|  9 | Tue, Sep 23 | [Functions] | - | [Flashcards Tutorial] |
+| 10 | Thu, Sep 25 | [Event Listeners] | [Custom Calculator] | - |
 | -  | **Week 6** | - | - | - |
-| 11 | Tue, Oct  1 | [Arrow Functions] | [Ecommerce Tutorial] | - |
-| 12 | Thu, Oct  3 |  | Lab Day | - |
+| 11 | Tue, Sep  30 | [Arrow Functions] | [Ecommerce Tutorial] | - |
+| 12 | Thu, Oct  2 |  | Lab Day | - |
 | -  | **Week 7** | - | - | - |
-| 13 | Tue, Oct  8 | [Objects] | - | [Ecommerce Tutorial]  |
-| 14 | Thu, Oct 10 |  | - |  |
+| 13 | Tue, Oct  7 | [Objects] | - | [Ecommerce Tutorial]  |
+| 14 | Thu, Oct 9 |  | - |  |
 
 ## Work to be completed
 
